@@ -1,0 +1,30 @@
+# Unreal generated files and local editor state
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+.svn/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Local backups and packaged builds
+/Backup/
+/Build/
+/package/
+/Newpackage/
+UpgradeLog*.htm
+
+# This repository distributes source and configuration only
+/Content/
+/TableCSV/Content/
+
+# Local credentials
+.env
+.env.*
+!.env.example

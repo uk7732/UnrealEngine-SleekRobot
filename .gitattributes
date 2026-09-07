@@ -1,0 +1,8 @@
+*.pdf binary
+*.cpp text
+*.h text
+*.cs text
+*.ini text
+*.uproject text
+*.md text
+*.csv text
